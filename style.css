@@ -26,6 +26,7 @@ ol{
 .container{
     display: flex;
     margin-left: 10px;
+    justify-content: center;
 }
 .container1{
     display: flex;
